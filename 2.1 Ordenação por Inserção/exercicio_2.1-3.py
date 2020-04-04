@@ -7,6 +7,8 @@ Escreva o pseudocódigo para busca linear, que faça a varredura da sequência, 
  de laço satisfazas três propriedades necessárias.
 
 '''
+#Escrevi em python mesmo, porque é muito parecido com um pseudocódigo
+
 
 lista = input()
 lista = lista.split()
