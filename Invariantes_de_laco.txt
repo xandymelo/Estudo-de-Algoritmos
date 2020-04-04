@@ -1,0 +1,12 @@
+Em resumo, uma prova que o algoritmo funciona, com uma demonstração similiar a indução, com os passos:
+
+Inicialização: Ele é verdadeiro antes da primeira iteração do laço.
+
+Manutenção: Se ele for verdadeiro antes de uma iteração do laço, permanecerá verdadeiro antes da próxima 
+iteração.
+
+Término: Quando  o  laço  termina,  o  invariante  nos  fornece  uma  propriedade  útil  que  ajuda  
+a  mostrar  que  o algoritmo é correto.
+
+Quando as duas primeiras propriedades são válidas, o invariante de laço é verdadeiro antes de
+ toda iteração dolaço.
