@@ -1,4 +1,4 @@
-#debuggar isso aqui
+
 
 def mergesort(lista, inicio = 0, fim = None):
     if fim is None:
