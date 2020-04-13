@@ -1,4 +1,4 @@
-#rever o video de quicksort e escrever o algoritmo de outro algoritmo de ordenação
+
 
 l = input()
 l  = l.split()
